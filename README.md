@@ -75,3 +75,6 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request (`we will merge within 24 hour`)
 
 ## Please give a star to the repository if you like it.
+
+## Contact 
+Vedprakash Verma - [Github] https://github.com/Vedsagar04/Job-Portal
