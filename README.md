@@ -75,9 +75,3 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request (`we will merge within 24 hour`)
 
 ## Please give a star to the repository if you like it.
-
-## Contact
-
-Abhishek Rajput - [GitHub](https://github.com/exclusiveabhi)
-
-Project Link: [https://github.com/exclusiveabhi/react-job-portal.git](https://github.com/exclusiveabhi/react-job-portal.git)
